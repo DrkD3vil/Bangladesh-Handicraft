@@ -1,0 +1,38 @@
+/* ProductPage.css */
+.product-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.business-logo img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.business-details {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.business-name {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.years-of-operation,
+.number-of-products,
+.likes,
+.description {
+  font-size: 1rem;
+  margin: 5px 0;
+}
+
+.description {
+  font-style: italic;
+}

@@ -1,0 +1,20 @@
+#bannerBG {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to bottom right,
+      rgba(0, 0, 0, 0.521),
+      rgba(0, 0, 0, 0.5)),
+    url("https://images.pexels.com/photos/2166456/pexels-photo-2166456.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-2166456.jpg&fm=jpg") no-repeat center center/cover;
+}
+
+/* Responsive rule for mobile devices */
+@media screen and (max-width: 768px) {
+  #bannerBG {
+    height: auto;
+    /* Adjust height as needed for mobile */
+    background-size: cover;
+    /* Ensure the background image covers the area */
+    background-position: center;
+    /* Center the background image */
+  }
+}

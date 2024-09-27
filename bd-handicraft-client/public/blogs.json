@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "The Rich Heritage of Bangladeshi Handicrafts",
+        "author": "Sakib Chowdhury",
+        "published_date": "2024-08-20",
+        "excerpt": "Discover the cultural significance and timeless beauty of Bangladeshi handicrafts that have captured global attention.",
+        "content": "Bangladesh is home to a rich tradition of handicrafts, ranging from intricate textiles to beautifully crafted pottery. These crafts reflect the history, culture, and artistic expression of its people. Over centuries, artisans have mastered the art of weaving, embroidery, and sculpting, contributing to a diverse range of handicrafts that are now recognized worldwide.",
+        "image": "/images/blog-1.jpg",
+        "tags": [
+            "heritage",
+            "handicrafts",
+            "Bangladesh",
+            "culture"
+        ],
+        "category": "Cultural Heritage"
+    },
+    {
+        "id": 2,
+        "title": "A Guide to Traditional Weaving in Bangladesh",
+        "author": "Ayesha Karim",
+        "published_date": "2024-07-15",
+        "excerpt": "Explore the ancient art of weaving in Bangladesh, from muslin to jamdani, and its significance in today's fashion industry.",
+        "content": "Weaving is one of the oldest crafts in Bangladesh, with jamdani and muslin being some of the most renowned textiles. Traditionally, these fabrics were made for royalty and have gained immense popularity worldwide. This article explores the techniques, patterns, and revival efforts to sustain this ancient craft.",
+        "image": "/images/blog-2.jpg",
+        "tags": [
+            "weaving",
+            "jamdani",
+            "textiles",
+            "Bangladesh"
+        ],
+        "category": "Textile Arts"
+    },
+    {
+        "id": 3,
+        "title": "Pottery Traditions of Bengal: A Story in Clay",
+        "author": "Rahim Uddin",
+        "published_date": "2024-06-30",
+        "excerpt": "An insight into the pottery traditions of Bengal, where clay takes shape as timeless masterpieces.",
+        "content": "Pottery has been an integral part of Bengal's heritage for centuries. The art of shaping clay into beautiful, functional objects has evolved with time, yet it remains a thriving industry in many parts of rural Bangladesh. This blog delves into the history, process, and modern-day adaptations of pottery in the region.",
+        "image": "/images/blog-3.jpg",
+        "tags": [
+            "pottery",
+            "clay",
+            "artisans",
+            "Bengal"
+        ],
+        "category": "Traditional Crafts"
+    },
+    {
+        "id": 4,
+        "title": "Revival of Bangladeshi Handicrafts in Global Markets",
+        "author": "Sanaul Kabir",
+        "published_date": "2024-08-01",
+        "excerpt": "How Bangladeshi handicrafts are making a comeback in the global markets, focusing on eco-friendly and sustainable products.",
+        "content": "With the rise of sustainable and eco-friendly products, Bangladeshi handicrafts have found a niche in global markets. Crafts like jute products, bamboo crafts, and handmade textiles are gaining popularity for their environmental benefits and unique craftsmanship. This article discusses the growing demand and the future of Bangladeshi crafts in the international marketplace.",
+        "image": "/images/blog-4.jpg",
+        "tags": [
+            "sustainability",
+            "global markets",
+            "jute",
+            "eco-friendly"
+        ],
+        "category": "Sustainable Crafts"
+    },
+    {
+        "id": 5,
+        "title": "Empowering Artisans Through Fair Trade Initiatives",
+        "author": "Meherun Nessa",
+        "published_date": "2024-07-22",
+        "excerpt": "Fair trade initiatives have helped empower Bangladeshi artisans by providing them access to better markets and fair wages.",
+        "content": "Fair trade movements have opened new avenues for Bangladeshi artisans, ensuring they receive fair compensation for their crafts. Organizations are working towards preserving traditional techniques while providing a platform for artisans to sell their products globally. This article highlights some key fair trade initiatives that have changed the lives of local artisans.",
+        "image": "/images/blog-5.jpg",
+        "tags": [
+            "fair trade",
+            "empowerment",
+            "artisans",
+            "Bangladesh"
+        ],
+        "category": "Artisan Stories"
+    }
+]
